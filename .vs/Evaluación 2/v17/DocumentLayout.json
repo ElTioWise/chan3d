@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\scripts\\controlplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|c:\\users\\wisef\\evaluaci\u00F3n 2\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|c:\\users\\wisef\\evaluaci\u00F3n 2\\assets\\scripts\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\scripts\\miraobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miraobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\scripts\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\scripts\\rotatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\scripts\\moveonpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveonpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|C:\\Users\\wisef\\Evaluaci\u00F3n 2\\assets\\scripts\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB0459-A1EB-6D1E-0F43-95A65E8B8775}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:02:57.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraScript.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\CameraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScript.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\CameraScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:53:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiraObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\MiraObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiraObjeto.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\MiraObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiraObjeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:51:57.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\ControlPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlPlayer.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\ControlPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlPlayer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:53:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:44:56.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangeScene.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\ChangeScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeScene.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\ChangeScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:39:29.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Camara.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\Camara.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camara.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\Camara.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:42:44.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveOnPath.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\MoveOnPath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveOnPath.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\MoveOnPath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveOnPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:32:47.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rotateController.cs",
+              "DocumentMoniker": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\rotateController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\rotateController.cs",
+              "ToolTip": "C:\\Users\\wisef\\Evaluaci\u00F3n 2\\Assets\\Scripts\\rotateController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\rotateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:31:58.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
